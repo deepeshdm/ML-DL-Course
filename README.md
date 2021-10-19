@@ -2,7 +2,7 @@
 This repository contains all the code mentioned in the ML DL course.
 
 <div align="center">
-<img src="/Imgs/ml.gif" width="50%" height="45%" />
+<img src="/Imgs/ml.gif" width="40%" height="40%" />
 </div>
 
 ## Index 
