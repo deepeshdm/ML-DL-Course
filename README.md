@@ -1,6 +1,10 @@
 # ML-Course
 This repository contains all the code mentioned in the ML DL course.
 
+<div align="center">
+<img src="/Imgs/ml.gif" width="50%" />
+</div>
+
 ## Index 
 * Lecture 0 : Python programming - Numpy,Pandas,Matplotlib
 * Lecture 1 : Introduction to Machine Learning
