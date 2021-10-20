@@ -10,7 +10,7 @@ This repository contains all the code mentioned in the ML DL course.
 * Lecture 1 : Introduction to Machine Learning
 * Lecture 2 : Workflow of a ML project
 * Lecture 3 : Converting Categorical Features into Numerical Format
-* Lecture 4 : Regression Problems - Linear Regression
+* Lecture 4 : Regression Problems - Linear Regression & Gradient Descent
 * Lecture 5 : Classification Problems - Logistic Regression
 * Lecture 6 : Decision Trees
 * Lecture 7 : Clustering Problems - K-means Clustering
