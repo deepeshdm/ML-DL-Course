@@ -12,9 +12,9 @@ This repository contains all the code mentioned in the ML DL course.
 * Lecture 3 : Converting Categorical Features into Numerical Format
 * Lecture 4 : Regression Problems - Linear Regression & Gradient Descent
 * Lecture 5 : Classification Problems - Logistic Regression
-* Lecture 6 : Decision Trees
-* Lecture 7 : Clustering Problems - K-means Clustering
-* Lecture 8 : Ensemble Methods - Random Forest
+* Lecture 6 : Clustering Problems - K-means Clustering
+* Lecture 7 : K-Nearest Neighbors
+* Lecture 8 : Ensemble Learning
 * Lecture 9 : Introduction to Deep Learning
 * Lecture 10 : Artificial Neural Networks
 * Lecture 11 : Activation Functions & Loss Functions
