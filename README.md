@@ -22,5 +22,4 @@ This repository contains all the code mentioned in the ML DL course.
 * Lecture 13 : Image Classification using CNN
 * Lecture 14 : Reccurent Neural Networks
 * Lecture 15 : Sentiment Analysis using RNN
-* Lecture 16 : Deploying ML Application using FastAPI on Heroku
 
