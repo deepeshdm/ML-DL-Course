@@ -15,11 +15,7 @@ This repository contains all the code mentioned in the ML DL course.
 * Lecture 6 : Clustering Problems - K-means Clustering
 * Lecture 7 : K-Nearest Neighbors
 * Lecture 8 : Ensemble Learning
-* Lecture 9 : Introduction to Deep Learning
-* Lecture 10 : Artificial Neural Networks
-* Lecture 11 : Activation Functions & Loss Functions
-* Lecture 12 : Convolutional Neural Networks
-* Lecture 13 : Image Classification using CNN
-* Lecture 14 : Reccurent Neural Networks
-* Lecture 15 : Sentiment Analysis using RNN
+* Lecture 9 : Introduction to Deep Learning & Neural Networks
+* Lecture 10 : Convolutional Neural Networks
+* Lecture 11 : Reccurent Neural Networks
 
