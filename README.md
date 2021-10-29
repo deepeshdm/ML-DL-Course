@@ -9,7 +9,8 @@
 - Maths : Differential Calculus,Matrices,Basic Statistics
 - Programming : Python (Numpy,Pandas,Matplotlib)
 
-## Index 
+### Index (12 hours of content)
+-------------------------------
 * Lecture 1 : Introduction to Machine Learning
 * Lecture 2 : Workflow of a Machine Learning project
 * Lecture 3 : Converting Categorical Features into Numerical Format
