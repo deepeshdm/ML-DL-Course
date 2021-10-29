@@ -17,7 +17,7 @@
 * Lecture 4 : Regression Problems - Linear Regression & Gradient Descent
 * Lecture 4 P2 : Implementing Linear Regression for Salary Prediction
 * Lecture 5 : Classification Problems - Logistic Regression
-* Lecture 5 P2 : Implementing Logistic Regression for Flower Classification
+* Lecture 5 P2 : Implementing Logistic Regression for Diabetes prediction
 * Lecture 6 : Clustering Problems - K-means Clustering
 * Lecture 6 P2 : Implementing K-means for Mall Customer Segmentation
 * Lecture 7 : K-Nearest Neighbors
